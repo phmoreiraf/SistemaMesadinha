@@ -1,0 +1,19 @@
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\bin\Debug\Projeto Mesadinha.exe.config
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\bin\Debug\Projeto Mesadinha.exe
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\bin\Debug\Projeto Mesadinha.pdb
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\bin\Debug\MySql.Data.dll
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\bin\Debug\MySql.Data.xml
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto Mesadinha.csprojAssemblyReference.cache
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto_Mesadinha.Properties.Resources.resources
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto Mesadinha.csproj.GenerateResource.cache
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto Mesadinha.csproj.CoreCompileInputs.cache
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto Mesadinha.csproj.CopyComplete
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto Mesadinha.exe
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto Mesadinha.pdb
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto_Mesadinha.frm_menu.resources
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto_Mesadinha.telalogin.resources
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto_Mesadinha.frmusuarios.resources
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto_Mesadinha.frmcategoria.resources
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto_Mesadinha.frmcontas.resources
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto_Mesadinha.frmmovimentacao.resources
+D:\Arquivos Cotemig\Arquivos 2020\TEP\WindowsForms\Projeto Mesadinha\Projeto Mesadinha\obj\Debug\Projeto_Mesadinha.frmalterarperfil.resources
